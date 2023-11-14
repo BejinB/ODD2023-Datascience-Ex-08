@@ -1,24 +1,24 @@
 # Ex-08-Data-Visualization-
-# AIM
+## AIM
 To Perform Data Visualization on a complex dataset and save the data to a file.
 
-# Explanation
+## Explanation
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
-# ALGORITHM
-## STEP 1
+## ALGORITHM
+### STEP 1
 Read the given Data
 
-## STEP 2
+### STEP 2
 Clean the Data Set using Data Cleaning Process
 
-## STEP 3
+### STEP 3
 Apply Feature generation and selection techniques to all the features of the data set
 
-## STEP 4
+### STEP 4
 Apply data visualization techniques to identify the patterns of the data.
 
-# PROGRAM:
+## PROGRAM:
 ```
 Developed By: BEJIN B
 Reg No: 212222230021
@@ -158,5 +158,5 @@ plt.boxplot(x="Sales",data=df)
 plt.show()
 ```
 ![280224625-9515bcd2-15ba-453a-a02e-e3e6e3ea875c](https://github.com/Aakash0407/ODD2023-Datascience-Ex-08/assets/118799103/656bcb93-988a-4d2e-905d-2ea362ed79d9)
-# RESULT:
+## RESULT:
 Hence, Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
